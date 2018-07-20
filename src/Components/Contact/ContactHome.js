@@ -12,6 +12,7 @@ class ContactHome extends Component {
                 <div>Contact Me:</div>
                 <div>Email: Gcbrown1116@gmail.com</div>
                 <div>LinkedIn: </div>
+                <div>GitHub: https://github.com/smpr</div>
                 </div>
             </Container>
         );
